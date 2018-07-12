@@ -1,0 +1,30 @@
+{
+  "name": "debugging-timer",
+  "version": "1.0.0",
+  "description": "Measure the execution time of multiple sections of your code, then effortlessly print all the timer results at once to the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catcher-in-the-try/debugging-timer.git"
+  },
+  "keywords": [
+    "debugging",
+    "debug",
+    "timer",
+    "debug-timer",
+    "performance",
+    "performance-now",
+    "date-now",
+    "date",
+    "benchmarking"
+  ],
+  "author": "Anton Ivanov <anton@ivanov.hk>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/catcher-in-the-try/debugging-timer/issues"
+  },
+  "homepage": "https://github.com/catcher-in-the-try/debugging-timer#readme"
+}
